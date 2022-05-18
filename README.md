@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rolando Gonzalez
 - 👀 I’m interested in drones and entrepreneurship
 - 🌱 I’m currently learning CS50 (C & Python)
-- 💞️ I’m looking to collaborate on new software projects and drone systems integrations.
+- ✨ I’m looking to collaborate on new software projects and drone systems integrations.
 - 📫 Email me at rolandoglez@me.com
 
 <!---
